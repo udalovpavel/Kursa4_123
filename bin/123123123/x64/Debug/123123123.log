@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\sasha\source\repos\123123123\123123123\main.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  123123123.vcxproj -> C:\Users\sasha\source\repos\123123123\x64\Debug\123123123.exe
